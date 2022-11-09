@@ -66,7 +66,7 @@ const InputModal = ({
         <ModalContainer>
           <ModalView>
             <ModalIcon>
-              <HeaderTitle> todos </HeaderTitle>
+              <HeaderTitle> edit </HeaderTitle>
               <AntDesign name="edit" size={30} color={colors.tertiary} />
             </ModalIcon>
 

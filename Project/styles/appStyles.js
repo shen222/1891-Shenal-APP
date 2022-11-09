@@ -37,11 +37,11 @@ export const HeaderView = styled.View`
 `;
 
 export const HeaderTitle = styled.Text`
-  font-size: 35px;
+  font-size: 40px;
   font-weight: bold;
   color: ${colors.tertiary};
-  letter-spacing: 2px;
-  font-style: italic;
+  letter-spacing: 1px;
+  font-style: normal;
 `;
 export const HeaderButton = styled.TouchableOpacity`
   font-weight: bold;
@@ -51,7 +51,7 @@ export const HeaderButton = styled.TouchableOpacity`
 // List
 export const ListContainer = styled.View`
   margin-bottom: 30px;
-  flex: 1;
+  flex: 2;
   padding-bottom: 40px;
 `;
 

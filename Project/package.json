@@ -11,13 +11,12 @@
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-native": "0.69.6",
-    "react-is": "^16.8.0",
-    "prop-types": "^15.5.0",
-    "expo-constants": "~13.2.4",
-    "styled-components": "*",
     "@expo/vector-icons": "^13.0.0",
-    "react-native-paper": "4.9.2",
-    "react-native-swipe-list-view": "*"
+    "react-native-swipe-list-view": "*",
+    "styled-components": "5.3.6",
+    "expo-constants": "~13.2.4",
+    "prop-types": "^15.5.0",
+    "react-is": "^16.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
